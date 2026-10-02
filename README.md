@@ -1,6 +1,7 @@
 ## About
 
-This repository contains my submission for Exercise 2: "SQL Aggregate Functions & Operators." The exercise covers 15 handwritten SQL queries based on 5 tables (`students`, `courses`, `enrollments`, `salaries`, and `projects`), focusing on aggregating, grouping, and filtering data.
+This repository contains my submission for Exercise 2: SQL Aggregate Functions & Operators.
+The exercise covers 15 handwritten SQL queries based on 5 tables (`students`, `courses`, `enrollments`, `salaries`, and `projects`), focusing on aggregating, grouping, and filtering data.
 
 ## Contents
 
